@@ -1,0 +1,17 @@
+{
+  "name": "vue-2.0-ssr-simple-example",
+  "version": "1.0.0",
+  "description": "vue 2.0 ssr simple example",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dreamzhu",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.14.0",
+    "vue": "^2.0.1",
+    "vue-server-renderer": "^2.0.1"
+  }
+}
